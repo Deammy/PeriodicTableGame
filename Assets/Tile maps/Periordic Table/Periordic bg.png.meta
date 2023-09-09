@@ -1,0 +1,3996 @@
+fileFormatVersion: 2
+guid: ce2141e9792b4d841a501911776ec024
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6615361587465778313
+    second: Periordic bg_0
+  - first:
+      213: -5501605685034022579
+    second: Periordic bg_1
+  - first:
+      213: -4165459884984337850
+    second: Periordic bg_2
+  - first:
+      213: -3183214910500690740
+    second: Periordic bg_3
+  - first:
+      213: -6278855617240365726
+    second: Periordic bg_4
+  - first:
+      213: -7073722494047589699
+    second: Periordic bg_5
+  - first:
+      213: -4575263427665069886
+    second: Periordic bg_6
+  - first:
+      213: -4019987050330631466
+    second: Periordic bg_7
+  - first:
+      213: -8048095572229575966
+    second: Periordic bg_8
+  - first:
+      213: -177830100590690100
+    second: Periordic bg_9
+  - first:
+      213: 6933252336152219224
+    second: Periordic bg_10
+  - first:
+      213: -465189746331066916
+    second: Periordic bg_11
+  - first:
+      213: -5219479149657571753
+    second: Periordic bg_12
+  - first:
+      213: 8964202457098986653
+    second: Periordic bg_13
+  - first:
+      213: 1502198447973552893
+    second: Periordic bg_14
+  - first:
+      213: -994894423589856191
+    second: Periordic bg_15
+  - first:
+      213: -8927635869173239196
+    second: Periordic bg_16
+  - first:
+      213: 4760116823913409603
+    second: Periordic bg_17
+  - first:
+      213: -5277836048902847012
+    second: Periordic bg_18
+  - first:
+      213: 2057731383877336629
+    second: Periordic bg_19
+  - first:
+      213: 5104372002862148695
+    second: Periordic bg_20
+  - first:
+      213: 460191951541124082
+    second: Periordic bg_21
+  - first:
+      213: -1194582590736226461
+    second: Periordic bg_22
+  - first:
+      213: -3603849421133317130
+    second: Periordic bg_23
+  - first:
+      213: -2438320305787767667
+    second: Periordic bg_24
+  - first:
+      213: -9156100706471224667
+    second: Periordic bg_25
+  - first:
+      213: 7081016988334106085
+    second: Periordic bg_26
+  - first:
+      213: -2657703060668716405
+    second: Periordic bg_27
+  - first:
+      213: -7978124114195516689
+    second: Periordic bg_28
+  - first:
+      213: 6238974332683583911
+    second: Periordic bg_29
+  - first:
+      213: -7253775235308481295
+    second: Periordic bg_30
+  - first:
+      213: 2571406884571644804
+    second: Periordic bg_31
+  - first:
+      213: 2184386532005996370
+    second: Periordic bg_32
+  - first:
+      213: 7210171154005004533
+    second: Periordic bg_33
+  - first:
+      213: -2618611298030001690
+    second: Periordic bg_34
+  - first:
+      213: 2527330974855372083
+    second: Periordic bg_35
+  - first:
+      213: -6081945860414632393
+    second: Periordic bg_36
+  - first:
+      213: -913930700490905217
+    second: Periordic bg_37
+  - first:
+      213: 8956161591858467315
+    second: Periordic bg_38
+  - first:
+      213: -7770852769637775195
+    second: Periordic bg_39
+  - first:
+      213: 6454175452046265258
+    second: Periordic bg_40
+  - first:
+      213: 3119566798670065351
+    second: Periordic bg_41
+  - first:
+      213: -1263947269526823115
+    second: Periordic bg_42
+  - first:
+      213: -1945785617205922793
+    second: Periordic bg_43
+  - first:
+      213: 6422525926277918487
+    second: Periordic bg_44
+  - first:
+      213: 7453687079582148718
+    second: Periordic bg_45
+  - first:
+      213: -8579722771526392081
+    second: Periordic bg_46
+  - first:
+      213: -2270056345268240818
+    second: Periordic bg_47
+  - first:
+      213: 1757120444060894040
+    second: Periordic bg_48
+  - first:
+      213: 1024989506035016732
+    second: Periordic bg_49
+  - first:
+      213: 4024457818004674237
+    second: Periordic bg_50
+  - first:
+      213: -4453189422870827853
+    second: Periordic bg_51
+  - first:
+      213: -3750820968849585242
+    second: Periordic bg_52
+  - first:
+      213: -5277768811276466659
+    second: Periordic bg_53
+  - first:
+      213: 3698965555963655854
+    second: Periordic bg_54
+  - first:
+      213: -965439775357930610
+    second: Periordic bg_55
+  - first:
+      213: -6711943772835637672
+    second: Periordic bg_56
+  - first:
+      213: -924286350944315539
+    second: Periordic bg_57
+  - first:
+      213: -3323112028555733138
+    second: Periordic bg_58
+  - first:
+      213: -1515918041635383986
+    second: Periordic bg_59
+  - first:
+      213: 1962873854263653800
+    second: Periordic bg_60
+  - first:
+      213: 5316614113435419047
+    second: Periordic bg_61
+  - first:
+      213: -5781806668080501497
+    second: Periordic bg_62
+  - first:
+      213: 7110461662574932746
+    second: Periordic bg_63
+  - first:
+      213: 1271201952593194095
+    second: Periordic bg_64
+  - first:
+      213: -6092660526909648919
+    second: Periordic bg_65
+  - first:
+      213: -4993951298378727379
+    second: Periordic bg_66
+  - first:
+      213: -3711078889469577794
+    second: Periordic bg_67
+  - first:
+      213: -4965743765604314070
+    second: Periordic bg_68
+  - first:
+      213: -5452150912426399161
+    second: Periordic bg_69
+  - first:
+      213: 979149845287454413
+    second: Periordic bg_70
+  - first:
+      213: 9207998665901524936
+    second: Periordic bg_71
+  - first:
+      213: -4682513310116508582
+    second: Periordic bg_72
+  - first:
+      213: 3716928471379320250
+    second: Periordic bg_73
+  - first:
+      213: 7482323574516624456
+    second: Periordic bg_74
+  - first:
+      213: -7150089459539148715
+    second: Periordic bg_75
+  - first:
+      213: 4560638366873418105
+    second: Periordic bg_76
+  - first:
+      213: -5785432708205238399
+    second: Periordic bg_77
+  - first:
+      213: -6921175497921677993
+    second: Periordic bg_78
+  - first:
+      213: 4708094465668647641
+    second: Periordic bg_79
+  - first:
+      213: 774294646488657219
+    second: Periordic bg_80
+  - first:
+      213: 7407259343150493753
+    second: Periordic bg_81
+  - first:
+      213: 1482642982095974917
+    second: Periordic bg_82
+  - first:
+      213: -4488195964181849381
+    second: Periordic bg_83
+  - first:
+      213: -2850650380095013444
+    second: Periordic bg_84
+  - first:
+      213: 4839880473253010259
+    second: Periordic bg_85
+  - first:
+      213: 6275520121649608272
+    second: Periordic bg_86
+  - first:
+      213: 6505343185113112407
+    second: Periordic bg_87
+  - first:
+      213: -8804169346168334754
+    second: Periordic bg_88
+  - first:
+      213: -2000874678013838735
+    second: Periordic bg_89
+  - first:
+      213: 7800339956740145411
+    second: Periordic bg_90
+  - first:
+      213: -6323242878774732928
+    second: Periordic bg_91
+  - first:
+      213: 7363032919806016659
+    second: Periordic bg_92
+  - first:
+      213: -8828949154248167764
+    second: Periordic bg_93
+  - first:
+      213: -2029484862598037011
+    second: Periordic bg_94
+  - first:
+      213: -2488787298873852140
+    second: Periordic bg_95
+  - first:
+      213: 3146997579947534390
+    second: Periordic bg_96
+  - first:
+      213: -5421440581032604840
+    second: Periordic bg_97
+  - first:
+      213: -3430599539506562337
+    second: Periordic bg_98
+  - first:
+      213: 1761574101510471850
+    second: Periordic bg_99
+  - first:
+      213: 8709070742335386282
+    second: Periordic bg_100
+  - first:
+      213: 3165153755871913005
+    second: Periordic bg_101
+  - first:
+      213: -6499115025298650726
+    second: Periordic bg_102
+  - first:
+      213: -7360905446485345497
+    second: Periordic bg_103
+  - first:
+      213: -1718202423698478905
+    second: Periordic bg_104
+  - first:
+      213: -4955021385757496946
+    second: Periordic bg_105
+  - first:
+      213: -3610374174035337076
+    second: Periordic bg_106
+  - first:
+      213: 4143205530622423776
+    second: Periordic bg_107
+  - first:
+      213: -9214010428693694413
+    second: Periordic bg_108
+  - first:
+      213: 6510517567189957864
+    second: Periordic bg_109
+  - first:
+      213: -4760050743902106975
+    second: Periordic bg_110
+  - first:
+      213: -5697861199224410343
+    second: Periordic bg_111
+  - first:
+      213: -5576813522426257784
+    second: Periordic bg_112
+  - first:
+      213: 1688522770733793849
+    second: Periordic bg_113
+  - first:
+      213: 169924862810028337
+    second: Periordic bg_114
+  - first:
+      213: 7703622144450384792
+    second: Periordic bg_115
+  - first:
+      213: -885018878744315370
+    second: Periordic bg_116
+  - first:
+      213: -2458518540904603824
+    second: Periordic bg_117
+  - first:
+      213: 2955868349465074413
+    second: Periordic bg_118
+  - first:
+      213: -2421270843493160210
+    second: Periordic bg_119
+  - first:
+      213: 9701434478673763
+    second: Periordic bg_120
+  - first:
+      213: 842004706104004759
+    second: Periordic bg_121
+  - first:
+      213: -1177895560565024560
+    second: Periordic bg_122
+  - first:
+      213: 7302383560638727792
+    second: Periordic bg_123
+  - first:
+      213: 464660347359577091
+    second: Periordic bg_124
+  - first:
+      213: 2056639965583201229
+    second: Periordic bg_125
+  - first:
+      213: -3577926310986400758
+    second: Periordic bg_126
+  - first:
+      213: -7548160722462471939
+    second: Periordic bg_127
+  - first:
+      213: -5085656784410478855
+    second: Periordic bg_128
+  - first:
+      213: -8315643863489703670
+    second: Periordic bg_129
+  - first:
+      213: 8553821945078600697
+    second: Periordic bg_130
+  - first:
+      213: 6326635941066532704
+    second: Periordic bg_131
+  - first:
+      213: 3029425806131485077
+    second: Periordic bg_132
+  - first:
+      213: 6907034762643853786
+    second: Periordic bg_133
+  - first:
+      213: -8250913731208366216
+    second: Periordic bg_134
+  - first:
+      213: 5130490389644026775
+    second: Periordic bg_135
+  - first:
+      213: 3312207760489844783
+    second: Periordic bg_136
+  - first:
+      213: 6748133385248434150
+    second: Periordic bg_137
+  - first:
+      213: -2797730126319652675
+    second: Periordic bg_138
+  - first:
+      213: 4982517861807189439
+    second: Periordic bg_139
+  - first:
+      213: -5067610090071863104
+    second: Periordic bg_140
+  - first:
+      213: 2254396295918788181
+    second: Periordic bg_141
+  - first:
+      213: -8411756369190327102
+    second: Periordic bg_142
+  - first:
+      213: -6503226034574333711
+    second: Periordic bg_143
+  - first:
+      213: 1839083296416820882
+    second: Periordic bg_144
+  - first:
+      213: -8578260123812086584
+    second: Periordic bg_145
+  - first:
+      213: 3964809186260308382
+    second: Periordic bg_146
+  - first:
+      213: 8390355424182382318
+    second: Periordic bg_147
+  - first:
+      213: 2622154764235430742
+    second: Periordic bg_148
+  - first:
+      213: -8859701722187805343
+    second: Periordic bg_149
+  - first:
+      213: -8067976430752036124
+    second: Periordic bg_150
+  - first:
+      213: -6945002869330963212
+    second: Periordic bg_151
+  - first:
+      213: -5533568097189570989
+    second: Periordic bg_152
+  - first:
+      213: -5894994925105463221
+    second: Periordic bg_153
+  - first:
+      213: 6014344263803112098
+    second: Periordic bg_154
+  - first:
+      213: -1433455858622739530
+    second: Periordic bg_155
+  - first:
+      213: 8856314450236880092
+    second: Periordic bg_156
+  - first:
+      213: -3918955184218045255
+    second: Periordic bg_157
+  - first:
+      213: 7432957296506224153
+    second: Periordic bg_158
+  - first:
+      213: 7617174073020743002
+    second: Periordic bg_159
+  - first:
+      213: 8142231854392052565
+    second: Periordic bg_160
+  - first:
+      213: -5365994238495686885
+    second: Periordic bg_161
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Periordic bg_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 434
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98479a9605c7ecb50800000000000000
+      internalID: 6615361587465778313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Periordic bg_1
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 434
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d49074937ce56a3b0800000000000000
+      internalID: -5501605685034022579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Periordic bg_2
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 434
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64a7e5ddd405136c0800000000000000
+      internalID: -4165459884984337850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Periordic bg_3
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 434
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc421ef77e2f2d3d0800000000000000
+      internalID: -3183214910500690740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Periordic bg_4
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 434
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2650c6a35160dd8a0800000000000000
+      internalID: -6278855617240365726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Periordic bg_5
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 434
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dba6a9eaed615dd90800000000000000
+      internalID: -7073722494047589699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Periordic bg_6
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 434
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c8ff2047266180c0800000000000000
+      internalID: -4575263427665069886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Periordic bg_7
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 434
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d25f5793132638c0800000000000000
+      internalID: -4019987050330631466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Periordic bg_8
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 434
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eaacdab7bb6f4090800000000000000
+      internalID: -8048095572229575966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Periordic bg_9
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 434
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc08be73778388df0800000000000000
+      internalID: -177830100590690100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Periordic bg_10
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 434
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85e008a044cd73060800000000000000
+      internalID: 6933252336152219224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Periordic bg_11
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 434
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdd58c0f3605b89f0800000000000000
+      internalID: -465189746331066916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Periordic bg_12
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 434
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75e3a1c0e5fa097b0800000000000000
+      internalID: -5219479149657571753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Periordic bg_13
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 434
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d94a11ee3ae376c70800000000000000
+      internalID: 8964202457098986653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Periordic bg_14
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 434
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df25b998781e8d410800000000000000
+      internalID: 1502198447973552893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Periordic bg_15
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 434
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14cd8ecfacc6132f0800000000000000
+      internalID: -994894423589856191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Periordic bg_16
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 434
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 462b4e54a7aaa1480800000000000000
+      internalID: -8927635869173239196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Periordic bg_17
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 434
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34c28baf7055f0240800000000000000
+      internalID: 4760116823913409603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Periordic bg_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 380
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd50562a31c51c6b0800000000000000
+      internalID: -5277836048902847012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Periordic bg_19
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 380
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53e7e239ac78e8c10800000000000000
+      internalID: 2057731383877336629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Periordic bg_20
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 380
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75c2c00ea4f56d640800000000000000
+      internalID: 5104372002862148695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Periordic bg_21
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 380
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fb3a18442ee26600800000000000000
+      internalID: 460191951541124082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Periordic bg_22
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 380
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3672d40867dfb6fe0800000000000000
+      internalID: -1194582590736226461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Periordic bg_23
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 380
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fbf955ab0e8cfdc0800000000000000
+      internalID: -3603849421133317130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Periordic bg_24
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 380
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d84f5e4c998592ed0800000000000000
+      internalID: -2438320305787767667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Periordic bg_25
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 380
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aa54172beefee080800000000000000
+      internalID: -9156100706471224667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Periordic bg_26
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 380
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e5292e1f63d44260800000000000000
+      internalID: 7081016988334106085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Periordic bg_27
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 380
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8a6f5eb521fd1bd0800000000000000
+      internalID: -2657703060668716405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Periordic bg_28
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 380
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe2f5675362084190800000000000000
+      internalID: -7978124114195516689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Periordic bg_29
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 380
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a1826e991a459650800000000000000
+      internalID: 6238974332683583911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Periordic bg_30
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 380
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f499ea0bd9655b90800000000000000
+      internalID: -7253775235308481295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Periordic bg_31
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 380
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48303e700f87fa320800000000000000
+      internalID: 2571406884571644804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Periordic bg_32
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 380
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2576d5c3aff705e10800000000000000
+      internalID: 2184386532005996370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Periordic bg_33
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 380
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f09c34a67caf0460800000000000000
+      internalID: 7210171154005004533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Periordic bg_34
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 380
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e1e81006e2d8abd0800000000000000
+      internalID: -2618611298030001690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Periordic bg_35
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 380
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33d981a9122e21320800000000000000
+      internalID: 2527330974855372083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Periordic bg_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 326
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73e04d6a676989ba0800000000000000
+      internalID: -6081945860414632393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Periordic bg_37
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 326
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f796aefbed01153f0800000000000000
+      internalID: -913930700490905217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Periordic bg_38
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 326
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f198b9148daa4c70800000000000000
+      internalID: 8956161591858467315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Periordic bg_39
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 326
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a841e7e392682490800000000000000
+      internalID: -7770852769637775195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Periordic bg_40
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 326
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aab8341c066d19950800000000000000
+      internalID: 6454175452046265258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Periordic bg_41
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 326
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cee4d7a97dea4b20800000000000000
+      internalID: 3119566798670065351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Periordic bg_42
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 326
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53f5701b7ae857ee0800000000000000
+      internalID: -1263947269526823115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Periordic bg_43
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 326
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71470655a4e2ff4e0800000000000000
+      internalID: -1945785617205922793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Periordic bg_44
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 326
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71f288c4d45612950800000000000000
+      internalID: 6422525926277918487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Periordic bg_45
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 326
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e68a96558e0d07760800000000000000
+      internalID: 7453687079582148718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Periordic bg_46
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 326
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe6e6dbb893bee880800000000000000
+      internalID: -8579722771526392081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Periordic bg_47
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 326
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4e3a2008c32f70e0800000000000000
+      internalID: -2270056345268240818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Periordic bg_48
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 326
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85383d7fbbb826810800000000000000
+      internalID: 1757120444060894040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Periordic bg_49
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 326
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1468bd668e793e00800000000000000
+      internalID: 1024989506035016732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Periordic bg_50
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 326
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db656bf101fb9d730800000000000000
+      internalID: 4024457818004674237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Periordic bg_51
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 326
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bce14c50d71332c0800000000000000
+      internalID: -4453189422870827853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Periordic bg_52
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 326
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ab42a7933862fbc0800000000000000
+      internalID: -3750820968849585242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Periordic bg_53
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 326
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d160b3d9a3991c6b0800000000000000
+      internalID: -5277768811276466659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Periordic bg_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 272
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea67e9f339d555330800000000000000
+      internalID: 3698965555963655854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Periordic bg_55
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 272
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e83f1c1b3a11a92f0800000000000000
+      internalID: -965439775357930610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Periordic bg_56
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 272
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8569cb333b26ad2a0800000000000000
+      internalID: -6711943772835637672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Periordic bg_57
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 272
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d67d83df5764c23f0800000000000000
+      internalID: -924286350944315539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Periordic bg_58
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 272
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e679b15773fe1e1d0800000000000000
+      internalID: -3323112028555733138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Periordic bg_59
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 272
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4597b3a29066fae0800000000000000
+      internalID: -1515918041635383986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Periordic bg_60
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 272
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a57946ee578d3b10800000000000000
+      internalID: 1962873854263653800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Periordic bg_61
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 272
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a185271e5868c940800000000000000
+      internalID: 5316614113435419047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Periordic bg_62
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 272
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70da31df775e2cfa0800000000000000
+      internalID: -5781806668080501497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Periordic bg_63
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 272
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a03ffc2953f6da260800000000000000
+      internalID: 7110461662574932746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Periordic bg_64
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 272
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6ca916d07734a110800000000000000
+      internalID: 1271201952593194095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Periordic bg_65
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 272
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ef8184f785827ba0800000000000000
+      internalID: -6092660526909648919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Periordic bg_66
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 272
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d200982d0cbe1bab0800000000000000
+      internalID: -4993951298378727379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Periordic bg_67
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 272
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb5f6b389699f7cc0800000000000000
+      internalID: -3711078889469577794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Periordic bg_68
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 272
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a245b85da52261bb0800000000000000
+      internalID: -4965743765604314070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Periordic bg_69
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 272
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74aa003c1a11654b0800000000000000
+      internalID: -5452150912426399161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Periordic bg_70
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 272
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc6cc36b893a69d00800000000000000
+      internalID: 979149845287454413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Periordic bg_71
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 272
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c7c455200269cf70800000000000000
+      internalID: 9207998665901524936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Periordic bg_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 218
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5c877614fe540fb0800000000000000
+      internalID: -4682513310116508582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Periordic bg_73
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 218
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abd991860ce259330800000000000000
+      internalID: 3716928471379320250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Periordic bg_74
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 218
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84c2891e5ad86d760800000000000000
+      internalID: 7482323574516624456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Periordic bg_75
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 218
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55087e3f487c5cc90800000000000000
+      internalID: -7150089459539148715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Periordic bg_76
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 218
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 979f18e6e64aa4f30800000000000000
+      internalID: 4560638366873418105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Periordic bg_77
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 218
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 187208bba9306bfa0800000000000000
+      internalID: -5785432708205238399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Periordic bg_78
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 218
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 755bd3afd8b03ff90800000000000000
+      internalID: -6921175497921677993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Periordic bg_79
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 218
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9da8923d8f2865140800000000000000
+      internalID: 4708094465668647641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Periordic bg_80
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 218
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34d617be0e8deba00800000000000000
+      internalID: 774294646488657219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Periordic bg_81
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 218
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 930bda3902fdbc660800000000000000
+      internalID: 7407259343150493753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Periordic bg_82
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 218
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5027e84dfe7639410800000000000000
+      internalID: 1482642982095974917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Periordic bg_83
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 218
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bda5990dc89b6b1c0800000000000000
+      internalID: -4488195964181849381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Periordic bg_84
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 218
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbdba9b25947078d0800000000000000
+      internalID: -2850650380095013444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Periordic bg_85
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 218
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35b589bc5a5ba2340800000000000000
+      internalID: 4839880473253010259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Periordic bg_86
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 218
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 056bdbf2d40271750800000000000000
+      internalID: 6275520121649608272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Periordic bg_87
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 218
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75fdcaaf82f974a50800000000000000
+      internalID: 6505343185113112407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Periordic bg_88
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 218
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e56d04b40ae41d580800000000000000
+      internalID: -8804169346168334754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Periordic bg_89
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 218
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17a39e8d4177b34e0800000000000000
+      internalID: -2000874678013838735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Periordic bg_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 164
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30148c8dcdf504c60800000000000000
+      internalID: 7800339956740145411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Periordic bg_91
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 164
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0871d1e8a145f38a0800000000000000
+      internalID: -6323242878774732928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Periordic bg_92
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 164
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39c7b86fd6fbe2660800000000000000
+      internalID: 7363032919806016659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Periordic bg_93
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 164
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cae6d01a585497580800000000000000
+      internalID: -8828949154248167764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Periordic bg_94
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 164
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de1cfc72542d5d3e0800000000000000
+      internalID: -2029484862598037011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Periordic bg_95
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 164
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41fbe19432d067dd0800000000000000
+      internalID: -2488787298873852140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Periordic bg_96
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 164
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63869cd10a16cab20800000000000000
+      internalID: 3146997579947534390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Periordic bg_97
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 164
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85b0aacf38c23c4b0800000000000000
+      internalID: -5421440581032604840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Periordic bg_98
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 164
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdab71915ef0460d0800000000000000
+      internalID: -3430599539506562337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Periordic bg_99
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 164
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa04f06ef4e527810800000000000000
+      internalID: 1761574101510471850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Periordic bg_100
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 164
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa2f5a092b5dcd870800000000000000
+      internalID: 8709070742335386282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Periordic bg_101
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 164
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d242d3e3292eceb20800000000000000
+      internalID: 3165153755871913005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Periordic bg_102
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 164
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a998baa71518ec5a0800000000000000
+      internalID: -6499115025298650726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Periordic bg_103
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 164
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72bb0050f7fc8d990800000000000000
+      internalID: -7360905446485345497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Periordic bg_104
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 164
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c8ac33cff7b728e0800000000000000
+      internalID: -1718202423698478905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Periordic bg_105
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 164
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e89e57f6d4a3c3bb0800000000000000
+      internalID: -4955021385757496946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Periordic bg_106
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 164
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c80216a31df55edc0800000000000000
+      internalID: -3610374174035337076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Periordic bg_107
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 164
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e2fe2c7a7f9f7930800000000000000
+      internalID: 4143205530622423776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Periordic bg_108
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 110
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 338b7f04552412080800000000000000
+      internalID: -9214010428693694413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Periordic bg_109
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 110
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ec3c40bb310a5a50800000000000000
+      internalID: 6510517567189957864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Periordic bg_110
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 110
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aa81e87117e0fdb0800000000000000
+      internalID: -4760050743902106975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Periordic bg_111
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 110
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91f6fb88d612de0b0800000000000000
+      internalID: -5697861199224410343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Periordic bg_112
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 110
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88e103906ad2b92b0800000000000000
+      internalID: -5576813522426257784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Periordic bg_113
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 110
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9320fb88386de6710800000000000000
+      internalID: 1688522770733793849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Periordic bg_114
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 110
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1397c4e23c1bb5200800000000000000
+      internalID: 169924862810028337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Periordic bg_115
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 110
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8935ccb5683c8ea60800000000000000
+      internalID: 7703622144450384792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Periordic bg_116
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 110
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61a3ee0d408c7b3f0800000000000000
+      internalID: -885018878744315370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Periordic bg_117
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 110
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05f5bafa96691edd0800000000000000
+      internalID: -2458518540904603824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Periordic bg_118
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 110
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dea9fac5a9a550920800000000000000
+      internalID: 2955868349465074413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Periordic bg_119
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 110
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eea649c0ffae56ed0800000000000000
+      internalID: -2421270843493160210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Periordic bg_120
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 110
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36fb9eb3767722000800000000000000
+      internalID: 9701434478673763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Periordic bg_121
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 110
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 790598ea1d66fab00800000000000000
+      internalID: 842004706104004759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Periordic bg_122
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 110
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d8130a7a3647afe0800000000000000
+      internalID: -1177895560565024560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Periordic bg_123
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 110
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0760681a827475560800000000000000
+      internalID: 7302383560638727792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Periordic bg_124
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 110
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 304c391cf1ec27600800000000000000
+      internalID: 464660347359577091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Periordic bg_125
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 110
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc35573f627aa8c10800000000000000
+      internalID: 2056639965583201229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Periordic bg_126
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 56
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0cb1211af6a85ec0800000000000000
+      internalID: -3577926310986400758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Periordic bg_127
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 56
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df8811690db8f3790800000000000000
+      internalID: -7548160722462471939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Periordic bg_128
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 56
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f678ab791e1c69b0800000000000000
+      internalID: -5085656784410478855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Periordic bg_129
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 56
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a011a0ed6f5e89c80800000000000000
+      internalID: -8315643863489703670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Periordic bg_130
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 56
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f3d95c2db745b670800000000000000
+      internalID: 8553821945078600697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Periordic bg_131
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 56
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0676d725ed9bcc750800000000000000
+      internalID: 6326635941066532704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Periordic bg_132
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 56
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5995ed758beaa0a20800000000000000
+      internalID: 3029425806131485077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Periordic bg_133
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 56
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad159a68587badf50800000000000000
+      internalID: 6907034762643853786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Periordic bg_134
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 56
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 877beea3dadde7d80800000000000000
+      internalID: -8250913731208366216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Periordic bg_135
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 56
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 793a94ea3d9233740800000000000000
+      internalID: 5130490389644026775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Periordic bg_136
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 56
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f201a4ac86357fd20800000000000000
+      internalID: 3312207760489844783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Periordic bg_137
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 56
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e7efac8f8f26ad50800000000000000
+      internalID: 6748133385248434150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Periordic bg_138
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 56
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db0fe4be5477c29d0800000000000000
+      internalID: -2797730126319652675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Periordic bg_139
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 56
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbd6e08c895752540800000000000000
+      internalID: 4982517861807189439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Periordic bg_140
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 56
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c0d411f87b3ca9b0800000000000000
+      internalID: -5067610090071863104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Periordic bg_141
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 56
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55e1231ac79394f10800000000000000
+      internalID: 2254396295918788181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Periordic bg_142
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 56
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cce74d4620734b80800000000000000
+      internalID: -8411756369190327102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Periordic bg_143
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 56
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f8ef1b8066efb5a0800000000000000
+      internalID: -6503226034574333711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Periordic bg_144
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29e6743a38cb58910800000000000000
+      internalID: 1839083296416820882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Periordic bg_145
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 2
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cc3841fdd5e3f880800000000000000
+      internalID: -8578260123812086584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Periordic bg_146
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 2
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e91504dc2f4d50730800000000000000
+      internalID: 3964809186260308382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Periordic bg_147
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 2
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeea9a5edc7807470800000000000000
+      internalID: 8390355424182382318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Periordic bg_148
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 2
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65bd9548dd3c36420800000000000000
+      internalID: 2622154764235430742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Periordic bg_149
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 2
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16d441179340c0580800000000000000
+      internalID: -8859701722187805343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Periordic bg_150
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 2
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ea0dc4ae2ac80090800000000000000
+      internalID: -8067976430752036124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Periordic bg_151
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 2
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f49571cfa46e9f90800000000000000
+      internalID: -6945002869330963212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Periordic bg_152
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 2
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 356d49a3221d433b0800000000000000
+      internalID: -5533568097189570989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Periordic bg_153
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 2
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b40cb504955c03ea0800000000000000
+      internalID: -5894994925105463221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Periordic bg_154
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 2
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aa84e81e3e377350800000000000000
+      internalID: 6014344263803112098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Periordic bg_155
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 2
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bbc699cd775b1ce0800000000000000
+      internalID: -1433455858622739530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Periordic bg_156
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 2
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd43789d113f7ea70800000000000000
+      internalID: 8856314450236880092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Periordic bg_157
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 2
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b4020206031d99c0800000000000000
+      internalID: -3918955184218045255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Periordic bg_158
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 2
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91eb6e8974b272760800000000000000
+      internalID: 7432957296506224153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Periordic bg_159
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 2
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5d77be3673a5b960800000000000000
+      internalID: 7617174073020743002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Periordic bg_160
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 2
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55b88ef6bb40ff070800000000000000
+      internalID: 8142231854392052565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Periordic bg_161
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 2
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1ffbab9ba82885b0800000000000000
+      internalID: -5365994238495686885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
